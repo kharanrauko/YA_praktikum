@@ -14,5 +14,5 @@
  9. [Защита персональных данных](https://github.com/kharanrauko/YA_praktikum/tree/master/pr_9_PI_protection) - реализовал алгоритм защиты (обезличивания) персональных данных клиента, с целью дальнейшего его использования в целях предсказания факта выплаты страховой премии.
  10. [Предсказание цены автомобиля](https://github.com/kharanrauko/YA_praktikum/tree/master/pr_10_car_price_predictions) - по данным о продажах автомобилей, построил модель предсказания цены.
  11. [Временные ряды для предсказания количества заказов такси](https://github.com/kharanrauko/YA_praktikum/tree/master/pr_11_taxi_order_predictions) - используя данные о заказах такси за предыдущие периоды, построил модель предсказания заказов.
- 12. [Определение токсичных комментариев](https://github.com/kharanrauko/YA_praktikum/tree/master/pr_12_toxic_comments) - построил модель классификации токсичных комментариев.
+ 12. [Классификация токсичных комментариев](https://github.com/kharanrauko/YA_praktikum/tree/master/pr_12_toxic_comments) - построил модель классификации токсичных комментариев.
  13. [Определение возраста по фотографии](https://github.com/kharanrauko/YA_praktikum/tree/master/pr_14_age_determination) - используя размеченные данные с фотографиями людей, при помощи нейронной сети построил модель предсказания возраста.
